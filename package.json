@@ -82,7 +82,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "18.4.4",
-    "@commitlint/config-conventional": "18.1.0",
+    "@commitlint/config-conventional": "19.2.2",
     "@lingui/cli": "^4.7.2",
     "@lingui/conf": "^4.7.2",
     "@lingui/vite-plugin": "^4.7.2",
